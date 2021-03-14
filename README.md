@@ -1,4 +1,4 @@
-- [|||]  Hi, I’m @shashankx86 (TweakVoid)
+- []  Hi, I’m @shashankx86 (TweakVoid)
 - [I]  I’m interested in Robotic and programming
 - [I]  I’m currently learning Python (programming language)
 - [I]  My Website [tweakvoid.blogspot.com]
