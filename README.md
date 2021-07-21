@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shashank - aka shashankx86</h1>
-<h3 align="center">Shashank: Class 8th student by day and android developer by night :]</h3>
+<h3 align="center">Shashank: Born For Tech :]</h3>
 
 
 
